@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IDM Relax</string>
+    <string name="showHide_Button">Show</string>
+    <string name="forget_psw">forgetPassword</string>
+    <string name="logIn_Button">logIn</string>
+    <string name="signIn_Button">signIn</string>
+    <string name="user_name">Usuario</string>
+    <string name="user_password">Password</string>
+    <string name="newUser_Button">Crear</string>
+    <string name="new_Name">Nombre(s)</string>
+    <string name="lasta_Name">Apellido(s)</string>
+    <string name="userEmail">Correo</string>
+    <string name="newUser_psw">Password</string>
+    <string name="confirm_psw">Confirm Password</string>
+    <string name="return_Button">Regresar</string>
+</resources>
